@@ -1,2 +1,3 @@
 ## Git Practice
-* Monday
+* It is Monday
+`` echo 'Hello World~' ``
